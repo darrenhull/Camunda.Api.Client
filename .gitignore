@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/pack/Camunda.Api.Client.1.2.3.snupkg
